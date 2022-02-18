@@ -31,7 +31,7 @@ Estou estudando sobre 👇
 ### Principal projeto 👇
 
 #### DashtoDota
-![DashtoDota](https://github-readme-stats.vercel.app/api/pin/?username=matheusmendescosta&repo=dashtodota&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)
+[![DashtoDota](https://github-readme-stats.vercel.app/api/pin/?username=matheusmendescosta&repo=dashtodota&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://matheusmendescosta.github.io/dashtodota/)
 
 
 <h3 align='center'>
