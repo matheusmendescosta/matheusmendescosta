@@ -36,6 +36,16 @@ Estou estudando sobre 👇
 ### Minhas Skills
 ![skills](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendescosta&layout=compact&langs_count=7&theme=dark)
 
+<div align='center' style="text-align: center"><br>
+  <h2>Tecnologias que eu mais gosto de utilizar</h2>
+  <img align="center" alt="Jwmffreitas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jwmffreitas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jwmffreitas-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Jwmffreitas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jwmffreitas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
 <h3 align='center'>
   Apóstolo de software livre
 </h3>
