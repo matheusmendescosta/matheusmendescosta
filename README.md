@@ -28,10 +28,6 @@ Estou estudando sobre 👇
 ![vue](https://cdn.svgporn.com/logos/vue.svg) : Vue  
 ![C#](https://cdn.svgporn.com/logos/c-sharp.svg) : C# 
 -->
-### Principais projetos em desenvolvimento 👇
-
-#### DashtoDota | Matheus-dev 
-[![DashtoDota](https://github-readme-stats.vercel.app/api/pin/?username=matheusmendescosta&repo=dashtodota&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://matheusmendescosta.github.io/dashtodota/) [![matheus-dev](https://github-readme-stats.vercel.app/api/pin/?username=matheusmendescosta&repo=matheus-dev&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://matheusmendescosta.github.io/matheus-dev/)
 
 #### Resumo das minhas contribuições
 ![skills](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendescosta&layout=compact&langs_count=7&theme=dark) ![status](https://github-readme-stats.vercel.app/api?username=matheusmendescosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
@@ -48,7 +44,6 @@ Estou estudando sobre 👇
   <img align="center" alt="Jwmffreitas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 </div>
-
 
 <h3 align='center'>
   Apóstolo de software livre
