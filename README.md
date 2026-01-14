@@ -1,5 +1,6 @@
-### Hi there, I'm Dev! 👋
+### Hi there 👋
 
+<a href="https://matheusmendes.dev">matheusmendes.dev</a>
 <!--
 **matheusmendescosta/matheusmendescosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,8 +30,8 @@ Estou estudando sobre 👇
 ![C#](https://cdn.svgporn.com/logos/c-sharp.svg) : C# 
 -->
 
-#### Resumo das minhas contribuições
-![skills](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendescosta&layout=compact&langs_count=7&theme=dark) ![status](https://github-readme-stats.vercel.app/api?username=matheusmendescosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+<!--- #### Resumo das minhas contribuições
+![skills](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendescosta&layout=compact&langs_count=7&theme=dark) ![status](https://github-readme-stats.vercel.app/api?username=matheusmendescosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
 
 <div align='center' style="text-align: center"><br>
   <h2>Tecnologias que eu mais gosto de utilizar</h2>
@@ -51,3 +52,4 @@ Estou estudando sobre 👇
 <div align='center'>
   <img src='https://cdn.svgporn.com/logos/opensource.svg'/>
 </div>
+-->
